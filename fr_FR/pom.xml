@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>fr.ehess</groupId>
-    <artifactId>vitro-languages_fr_FR_repo</artifactId>
+    <artifactId>vitro-languages_repo_fr_FR</artifactId>
     <version>1.11.2-SNAPSHOT</version>
   </parent>
   <artifactId>vitro-languages_fr_FR</artifactId>
